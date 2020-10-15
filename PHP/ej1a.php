@@ -7,7 +7,7 @@
         <?php  
 
             // PEDRO FERNÁNDEZ GARCÍA
-
+            /*ALFONSO:<<<< El contenido del array lo tienes que generar de manera dinámica, no de manera estática */
             $impares=array(1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37,39);
             $suma = 0;
             echo "<table border='1'>
