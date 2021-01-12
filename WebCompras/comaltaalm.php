@@ -1,3 +1,5 @@
+<!-- PEDRO FERNANDEZ GARCIA -->
+
 <html>
     <head><title>Alta almacenes</title><meta charset="utf-8"></head>
     <body>
